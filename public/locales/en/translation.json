@@ -1,0 +1,18 @@
+{
+  "title": "Internationalizing with i18next",
+  "description": {
+    "part2": "Switch language between english and russian using buttons above.",
+    "part3": "Call Us: +1 213 974-5898",
+    "part4": "Catalog",
+    "part5": "Delivery",
+    "part6": "About",
+    "part7": "Contact",
+    "part8": "Cart",
+    "part9": "Stuffed Animals",
+    "part10": "Shop Now",
+    "part11": "Wooden Toys",
+    "part12": "Say Hello to ToyStore!",
+    "part13": "Free Ecommerce",
+    "part14": "Template for Webflow"
+  }
+}
